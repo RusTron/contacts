@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/contacts/static/css/main.3b3cc0a4.chunk.css",
-    "main.js": "/contacts/static/js/main.c896bac8.chunk.js",
-    "main.js.map": "/contacts/static/js/main.c896bac8.chunk.js.map",
+    "main.css": "/contacts/static/css/main.ae89fd80.chunk.css",
+    "main.js": "/contacts/static/js/main.c1b44bf0.chunk.js",
+    "main.js.map": "/contacts/static/js/main.c1b44bf0.chunk.js.map",
     "runtime-main.js": "/contacts/static/js/runtime-main.133e3f5f.js",
     "runtime-main.js.map": "/contacts/static/js/runtime-main.133e3f5f.js.map",
     "static/css/2.cb65a257.chunk.css": "/contacts/static/css/2.cb65a257.chunk.css",
-    "static/js/2.1f07ed8c.chunk.js": "/contacts/static/js/2.1f07ed8c.chunk.js",
-    "static/js/2.1f07ed8c.chunk.js.map": "/contacts/static/js/2.1f07ed8c.chunk.js.map",
+    "static/js/2.d5886e1f.chunk.js": "/contacts/static/js/2.d5886e1f.chunk.js",
+    "static/js/2.d5886e1f.chunk.js.map": "/contacts/static/js/2.d5886e1f.chunk.js.map",
     "index.html": "/contacts/index.html",
-    "precache-manifest.a8a69ce2446dd7e4f19e8b71a23a981d.js": "/contacts/precache-manifest.a8a69ce2446dd7e4f19e8b71a23a981d.js",
+    "precache-manifest.04a3a003c3009e3826a3114177516962.js": "/contacts/precache-manifest.04a3a003c3009e3826a3114177516962.js",
     "service-worker.js": "/contacts/service-worker.js",
     "static/css/2.cb65a257.chunk.css.map": "/contacts/static/css/2.cb65a257.chunk.css.map",
-    "static/css/main.3b3cc0a4.chunk.css.map": "/contacts/static/css/main.3b3cc0a4.chunk.css.map",
-    "static/js/2.1f07ed8c.chunk.js.LICENSE.txt": "/contacts/static/js/2.1f07ed8c.chunk.js.LICENSE.txt",
+    "static/css/main.ae89fd80.chunk.css.map": "/contacts/static/css/main.ae89fd80.chunk.css.map",
+    "static/js/2.d5886e1f.chunk.js.LICENSE.txt": "/contacts/static/js/2.d5886e1f.chunk.js.LICENSE.txt",
     "static/media/backdrop.jpg": "/contacts/static/media/backdrop.f7eab148.jpg",
+    "static/media/react-logo.svg": "/contacts/static/media/react-logo.ee7cd8ed.svg",
     "static/media/wezom-logo.svg": "/contacts/static/media/wezom-logo.324b96ae.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.133e3f5f.js",
     "static/css/2.cb65a257.chunk.css",
-    "static/js/2.1f07ed8c.chunk.js",
-    "static/css/main.3b3cc0a4.chunk.css",
-    "static/js/main.c896bac8.chunk.js"
+    "static/js/2.d5886e1f.chunk.js",
+    "static/css/main.ae89fd80.chunk.css",
+    "static/js/main.c1b44bf0.chunk.js"
   ]
 }
